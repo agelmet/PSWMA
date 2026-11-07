@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/project-r-psychotherapeia-peiraias-icon.svg"
+ },
+ "source_md5": "9e65df47f0090196f2dd44c9a7e5ddf7",
+ "version": "55d0088e",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "b272c47a992bde18070ce431227320ed"
+ ],
+ "made": "2026-11-07"
+}
