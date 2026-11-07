@@ -1,16 +1,16 @@
 {
  "source": {
   "kind": "file",
-  "ref": "assets/img/project-r-psychotherapeia-peiraias-icon.svg"
+  "ref": "assets/img/eirini-rafaela-psoma-psychologos-icon.svg"
  },
- "source_md5": "9e65df47f0090196f2dd44c9a7e5ddf7",
- "version": "55d0088e",
+ "source_md5": "5bcf0e959728740df80cc2b02eacb796",
+ "version": "52579be7",
  "tile": null,
  "crop": null,
  "header": [
   "inline",
   "index.html",
-  "b272c47a992bde18070ce431227320ed"
+  "fddb7fe70f454f0b6e50b66293302e23"
  ],
  "made": "2026-11-07"
 }
